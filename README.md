@@ -24,3 +24,8 @@ $ make bfnb-deps
 $ make bfnb
 ```
 
+
+### Thanks to:
+Thanks to **Joel Buchheim-Moore** for his brainfuck interpreter - [Which I found on github](https://github.com/joelbm24/brainy/blob/master/lib/bfinter.py)
+
+
