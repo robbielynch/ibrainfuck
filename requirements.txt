@@ -1,0 +1,5 @@
+pyzmq
+jinja2
+tornado
+jsonschema
+ipython==3.1
