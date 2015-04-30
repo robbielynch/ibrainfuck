@@ -52,5 +52,5 @@ demo-no-deps:
 py3notebook: NOTEBOOK_FOLDER=notebooks
 py3notebook: deps compile demo-base
 
-bfnb-deps: deps demo
-bfnb: demo
+bf-deps: deps demo
+bf: demo
